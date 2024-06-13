@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: June 13, 2024
+
+**Today's Progress:** Styled my CS50 homepage and implemented a random quote generator using JavaScript.  
+
+**Thoughts:** My JavaScript is a bit rusty and I need to practice it, but I am going to concentrate on finishing CS50 before I brush up on JS using freeCodeCamp or The Odin Project.  
+
+**Link(s) to work:**  
+1. [Tweet of Random Quote Generator](https://x.com/BrendanGasparin/status/1801167271840379198)  
+
+
 ### Day 3: June 12, 2024
 
 **Today's Progress:** Designed home page for CS50 project.  
