@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 6: June 15, 2024
+
+**Today's Progress:** Created a portfolio page for my CS50 homepage assignment.  
+
+**Thoughts:** Included the HTML for title, blurb, and image for each project. But they don't link anywhere. TODO: Add links.  
+
+**Link(s) to work:**  
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1801589914171285706)  
+
+
+### Day 5: June 14, 2024
+
+**Today's Progress:** Converted CS50 homepage CSS colours into Bootstrap colours and gradients.  
+
+**Thoughts:** One of the criteria of this assignment is to use Bootstrap in some way, so I integrated Bootstrap colours and gradients into the website.  
+
+**Link(s) to work:**  
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1801589914171285706)  
+
+
 ### Day 4: June 13, 2024
 
 **Today's Progress:** Styled my CS50 homepage and implemented a random quote generator using JavaScript.  
