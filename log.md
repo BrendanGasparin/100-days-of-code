@@ -1,6 +1,46 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: June 20, 2024
+
+**Today's Progress:** Worked to make portfolio.html of the CS50 homepage assignment responsive on mobile.
+
+**Thoughts:** Forgot to update the Github log for 4 days and did it retro-actively. Must update it every day.
+
+**Link(s) to work:**
+1. [Tweet](https://x.com/BrendanGasparin/status/1803824849170927938)
+
+
+### Day 9: June 19, 2024
+
+**Today's Progress:** Submitted CS50 trivia page and worked to make index.html of the CS50 homepage assignment responsive on mobile.
+
+**Thoughts:** Forgot to update the Github log for 4 days and did it retro-actively. Must update it every day.
+
+**Link(s) to work:**
+1. [Tweet](https://x.com/BrendanGasparin/status/1803824849170927938)
+
+
+### Day 8: June 18, 2024
+
+**Today's Progress:** Filled in the links on the link page of my CS50 homepage assignment.
+
+**Thoughts:** Forgot to update the Github log for 4 days and did it retro-actively. Must update it every day.
+
+**Link(s) to work:**
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1802976382773026853)
+
+
+### Day 7: June 16, 2024
+
+**Today's Progress:** Added link page and bio page for my CS50 homepage assignment.
+
+**Thoughts:** Forgot to update the Github log for 4 days and did it retro-actively. Must update it every day.
+
+**Link(s) to work:**
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1802294130414166216)
+
+
 ### Day 6: June 15, 2024
 
 **Today's Progress:** Created a portfolio page for my CS50 homepage assignment.  
