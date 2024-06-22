@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 11: June 21, 2024
+
+**Today's Progress:** Made CS50 homepage assignment responsive on both mobile and desktop and submitted it.
+
+**Thoughts:** The project could be better, but it's a simple task for one week of the course and I want to move on with the rest of the course content.
+
+**Link(s) to work:**
+1. [Tweet](https://x.com/BrendanGasparin/status/1804195367225036890)
+
+
 ### Day 10: June 20, 2024
 
 **Today's Progress:** Worked to make portfolio.html of the CS50 homepage assignment responsive on mobile.
