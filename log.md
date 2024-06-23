@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: June 22, 2024
+
+**Today's Progress:** Made a strong password generator in JavaScript where you can copy the generated password to your clipboard.
+
+**Thoughts:** Got my mother to use the app and she didn't understand how many digits to put in for the password length. Not sure if my UI is unclear or if she was just having a boomer moment. Maybe test with other people?
+
+**Link(s) to work:**
+1. [JS Password Generator](https://brendangasparin.github.io/js-password-generator/)
+
+
 ### Day 11: June 21, 2024
 
 **Today's Progress:** Made CS50 homepage assignment responsive on both mobile and desktop and submitted it.
