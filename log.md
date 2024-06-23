@@ -3,9 +3,9 @@
 
 ### Day 13: June 23, 2024
 
-**Today's Progress:** Updated my Github profile with a cybersecurity project section containing my two password generators and my ROT-13 cipher.
+**Today's Progress:** Updated my Github profile with a cybersecurity project section containing my PHP login system, password generators, Google home page mockup, and ROT-13 cipher.  
 
-**Thoughts:** I need more cybersecurity-based projects to pad out that section of my portfolio.
+**Thoughts:** I need more cybersecurity-based projects to pad out that section of my portfolio.  
 
 **Link(s) to work:**
 1. [Github profile](https://github.com/BrendanGasparin/)  
