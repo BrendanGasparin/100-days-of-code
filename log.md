@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 13: June 23, 2024
+
+**Today's Progress:** Updated my Github profile with a cybersecurity project section containing my two password generators and my ROT-13 cipher.
+
+**Thoughts:** I need more cybersecurity-based projects to pad out that section of my portfolio.
+
+**Link(s) to work:**
+1. [Github profile](https://github.com/BrendanGasparin/)  
+
+
 ### Day 12: June 22, 2024
 
 **Today's Progress:** Made a strong password generator in JavaScript where you can copy the generated password to your clipboard.
