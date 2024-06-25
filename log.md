@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 14: June 24, 2024
+
+**Today's Progress:** Started a cryptography website. Made a simple UI with HTML and CSS.
+
+**Thoughts:** It's getting harder to think of new projects to keep me busy during the 100 days of code challenge.
+
+**Link(s) to work:**
+1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)
+
+
 ### Day 13: June 23, 2024
 
 **Today's Progress:** Updated my Github profile with a cybersecurity project section containing my PHP login system, password generators, Google home page mockup, and ROT-13 cipher.  
