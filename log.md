@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 15: June 25, 2024
+
+**Today's Progress:** Continued with the UI of the cryptography website. If you select the ROT cipher now then a second dropdown appears to allow you to set the number of characters to shift.
+
+**Thoughts:** I should be ready to implement the ROT cipher on day 16.
+
+**Link(s) to work:**
+1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)
+
+
 ### Day 14: June 24, 2024
 
 **Today's Progress:** Started a cryptography website. Made a simple UI with HTML and CSS.
