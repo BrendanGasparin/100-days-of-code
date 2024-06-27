@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: June 26, 2024
+
+**Today's Progress:** Implemented ROT encryption in my JavaScript Cryptography site.
+
+**Thoughts:** I spent half an hour on top of the hour of code tracking down a bug in my code. I was taking the user input for the ROT number as a string when I needed to parse it into an int. I have to implement an error message when the user tries to encrypt without selecting an algorithm. Then I will implement ROT decryption.
+
+**Link(s) to work:**
+1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)
+
+
 ### Day 15: June 25, 2024
 
 **Today's Progress:** Continued with the UI of the cryptography website. If you select the ROT cipher now then a second dropdown appears to allow you to set the number of characters to shift.
