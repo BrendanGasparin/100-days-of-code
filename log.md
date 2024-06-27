@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: June 27, 2024
+
+**Today's Progress:** Began Ania Kubow's [T-Rex Run YouTube Tutorial](https://youtube.com/watch?v=OnkimGiEkb4).
+
+**Thoughts:** It's very cool that you can animate a scrolling background using only CSS. I know we're supposed to work on our own projects and not tutorials for 100 Days of Code but when I've finished the tutorial I will add functionality and features so I think it's okay in this instance.
+
+**Link(s) to work:**
+1. [Dinosaur Run](https://brendangasparin.github.io/js-dinosaur-run/)
+
+
 ### Day 16: June 26, 2024
 
 **Today's Progress:** Implemented ROT encryption in my JavaScript Cryptography site.
