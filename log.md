@@ -68,7 +68,7 @@
 **Thoughts:** The project could be better, but it's a simple task for one week of the course and I want to move on with the rest of the course content.
 
 **Link(s) to work:**
-1. [Tweet](https://x.com/BrendanGasparin/status/1804195367225036890)
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1804195367225036890)
 
 
 ### Day 10: June 20, 2024
@@ -78,7 +78,7 @@
 **Thoughts:** Forgot to update the Github log for 4 days and did it retro-actively. Must update it every day.
 
 **Link(s) to work:**
-1. [Tweet](https://x.com/BrendanGasparin/status/1803824849170927938)
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1803824849170927938)
 
 
 ### Day 9: June 19, 2024
@@ -88,7 +88,7 @@
 **Thoughts:** Forgot to update the Github log for 4 days and did it retro-actively. Must update it every day.
 
 **Link(s) to work:**
-1. [Tweet](https://x.com/BrendanGasparin/status/1803824849170927938)
+1. [Tweet of CS50 Homepage](https://x.com/BrendanGasparin/status/1803824849170927938)
 
 
 ### Day 8: June 18, 2024
