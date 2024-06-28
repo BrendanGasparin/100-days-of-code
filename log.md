@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 18: June 28, 2024
+
+**Today's Progress:** Completed the T-Rex run tutorial, and modified the speed and physics.  
+
+**Thoughts:** I want to modify the game more. My son says the original version increases in difficulty as you play. I could also modify the graphics and add a scoring or timer system or both.  
+
+**Link(s) to work:**
+1. [Dinosaur Run](https://brendangasparin.github.io/js-dinosaur-run/)
+
+
 ### Day 17: June 27, 2024
 
 **Today's Progress:** Began Ania Kubow's [T-Rex Run YouTube tutorial](https://youtube.com/watch?v=OnkimGiEkb4).
