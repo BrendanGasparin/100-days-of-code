@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 20: June 30, 2024
+
+**Today's Progress:** Added a start screen and looped the game over screen to it, so the player can restart the game without reloading the browser window.
+
+**Thoughts:** I had a lot of trouble getting this to work and had to rely on ChatGPT to find a persistent bug for me. I need to brush up on my JavaScript through freeCodeCamp or The Odin Project. I still need to add increasing difficulty to this project.
+
+**Link(s) to work:**
+1. [Dinosaur Run](https://brendangasparin.github.io/js-dinosaur-run/)  
+
+
+### Day 19: June 29, 2024
+
+**Today's Progress:** Updated my cybersecurity resources list.  
+
+**Thoughts:** I need to add CTFs.  
+
+**Link(s) to work:**
+1. [Cybersecurity Resource List](https://github.com/BrendanGasparin/list-cybersecurity-resources)  
+
+
 ### Day 18: June 28, 2024
 
 **Today's Progress:** Completed the T-Rex run tutorial, and modified the speed and physics.  
