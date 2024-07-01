@@ -188,7 +188,7 @@
 **Thoughts:** We're supposed to do our own projects for 100 Days of Code but I need to finish the CS50 course so this project will do. I can't make the code public because of academic integrity but I can reuse parts of it. I plan to add a random quote generator tomorrow.  
 
 **Link(s) to work:**  
-1. [Tweet of Home Page](https://x.com/BrendanGasparin/status/1800887927163244890)  
+1. [Tweet of CS50 Home Page](https://x.com/BrendanGasparin/status/1800887927163244890)  
 
 
 ### Day 2: June 11, 2024
