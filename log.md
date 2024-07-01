@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 21: July 1, 2024
+
+**Today's Progress:** Followed a Tiff in Tech [YouTube tutorial on building a file organizer](https://www.youtube.com/watch?v=P7e5-n9FuXU). Modified it to make it move the files to a directory in my OneDrive.  
+
+**Thoughts:** Interesting to see the power of Python at work in file management. In the future I want to modify this script to allow the user to specify source and destination directories.  
+
+**Link(s) to work:**
+1. [Desktop Organizer](https://github.com/BrendanGasparin/py-desktop-organizer)
+
+
 ### Day 20: June 30, 2024
 
 **Today's Progress:** Added a start screen and looped the game over screen to it, so the player can restart the game without reloading the browser window.  
