@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 22: July 2, 2024
+
+**Today's progress:** Implemented ROT decryption in JavaScript Cryptography website. Added an error box to tell the user if they failed to select an algorithm. Updated my cybersecurity resource list with a few YouTube channels.  
+
+**Thoughts:** Next I will implement a substitution cipher for JavaScript cryptography. I am unsure whether or not to include CTF games in my cybersecurity resources list, or just have them in my hacking list. Probably both.  
+
+**Link(s) to work:**
+1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)  
+2. [Cybersecurity Resource List](https://github.com/BrendanGasparin/list-cybersecurity-resources)  
+
+
 ### Day 21: July 1, 2024
 
 **Today's Progress:** Followed a Tiff in Tech [YouTube tutorial on building a file organizer](https://www.youtube.com/watch?v=P7e5-n9FuXU). Modified it to make it move the files to a directory in my OneDrive.  
