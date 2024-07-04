@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 24: July 4, 2024
+
+**Today's Progress:** Updated my list of cybersecurity resources with CTF sites and bug bounty platforms.  
+
+**Thoughts:** Missed my hour of code yesterday. I have to be more vigilant in ensuring I do it every day. Perhaps I should do it in the morning instead of at night? The cybersecurity resources list is far from complete but is starting to get pretty long. I need to research whether it's possible to include a table of contents at the top linking to the various sections.
+
+**Link(s) to work:**
+1. [Cybersecurity Resource List](https://github.com/BrendanGasparin/list-cybersecurity-resources)  
+
+
 ### Day 22: July 2, 2024
 
 **Today's progress:** Implemented ROT decryption in JavaScript Cryptography website. Added an error box to tell the user if they failed to select an algorithm. Updated my cybersecurity resource list with a few YouTube channels. Updated my Github profile, replacing my old ROT-13 website with JavaScript Cryptography in my Cybersecurity Projects list.  
