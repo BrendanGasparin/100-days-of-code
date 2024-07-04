@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 24: July 4, 2024
+### Day 23: July 4, 2024
 
 **Today's Progress:** Updated my list of cybersecurity resources with CTF sites and bug bounty platforms.  
 
