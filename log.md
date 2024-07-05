@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 24: July 5, 2024  
+
+**Today's Progress:** Updated my profile, cybersecurity, and hacking lists. Markdown count as code!  
+
+**Thoughts:** It feels like a bit of a cop-out to just do Markdown for my hour of code, but I can hardly call my lists "curated" if I don't actively curate them.  
+
+**Link(s) to work:**
+1. [My Github profile](https://github.com/BrendanGasparin/)  
+2. [Cybersecurity Resource List](https://github.com/BrendanGasparin/list-cybersecurity-resources)  
+3. [Hacking Resource List](https://github.com/BrendanGasparin/list-hacking-resources)  
+
+
 ### Day 23: July 4, 2024
 
 **Today's Progress:** Updated my list of cybersecurity resources with CTF sites and bug bounty platforms.  
