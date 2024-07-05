@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 25: July 6, 2024
+
+**Today's Progress:** Updated my list of cybersecurity resources with cybersecurity and ethical hacking certifications.  
+
+**Thoughts:** Sort of cheating by doing Markdown two days in a row, but I couldn't think of anything else to do and it's a Saturday, so whatevs.
+
+**Link(s) to work:**
+1. [Cybersecurity Resource List](https://github.com/BrendanGasparin/list-cybersecurity-resources)  
+
+
 ### Day 24: July 5, 2024  
 
 **Today's Progress:** Updated my profile, cybersecurity, and hacking lists. Markdown count as code!  
