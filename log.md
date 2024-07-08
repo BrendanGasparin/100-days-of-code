@@ -3,9 +3,9 @@
 
 ### Day 27: July 8, 2024
 
-**Today's progress:** Added substitution cipher decryption to JavaScript cryptography page.  
+**Today's progress:** Added substitution cipher decryption to JavaScript cryptography page. Updated the description on my Github profile and updated the description of some of my other projects on there too.  
 
-**Thoughts(s):** I still need to add labels to the fields, clipboard copy buttons for mobile users, and I should tighten up the UI and make it more responsive between desktop and mobile devices.  
+**Thoughts(s):** For JS Cryptography, I still need to add labels to the fields, clipboard copy buttons for mobile users, and I should tighten up the UI and make it more responsive between desktop and mobile devices.  
 
 **Link(s) to work:**  
 1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)  
