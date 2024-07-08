@@ -1,13 +1,23 @@
 # 100 Days Of Code - Log
 
 
+### Day 27: July 8, 2024
+
+**Today's progress:** Added substitution cipher decryption to JavaScript cryptography page.  
+
+**Thoughts(s):** I still need to add labels to the fields, clipboard copy buttons for mobile users, and I should tighten up the UI and make it more responsive between desktop and mobile devices.  
+
+**Link(s) to work:**  
+1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)  
+
+
 ### Day 26: July 7, 2024  
 
 **Today's Progress:** Added substitution cipher encryption to JavaScript Cryptography page.  
 
 **Thought(s):** I need to add labels to the plaintext, ciphertext, and ciphers. I also need to add substitution cipher encryption, and clipboard copy buttons for mobile phone users.  
 
-**Link(s) to work:**
+**Link(s) to work:**  
 1. [JavaScript Cryptography](https://brendangasparin.github.io/js-cryptography/)  
 
 
