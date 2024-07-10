@@ -1,4 +1,14 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log  
+
+
+### Day 29: July 10, 2024  
+
+**Today's progress:** Rebuilding my Github home page.  
+
+**Thoughts:** It's amazing how little progress I made in one hour. I'm rebuilding my Github homepage as the old one is dated, not responsive on mobile, doesn't follow best practices, and is missing some of my more recent projects.  
+
+**Link(s) to work:**
+1. [Brendan's Github Homepage](https://brendangasparin.github.io)  
 
 
 ### Day 28: July 9, 2024
