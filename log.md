@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log  
 
+### Day 30: July 11, 2024  
+
+**Today's progress:** Added random quote generator to Github home page, and some sales copy.
+
+**Thoughts:** This rebuilding-my-Github-homepage is taking a lot longer than I thought. The last one was pretty dated though, so any work I do is just gravy.  
+
+**Link(s) to work:**  
+1. [Brendan's Github Homepage](https://brendangasparin.github.io)  
+
 
 ### Day 29: July 10, 2024  
 
