@@ -1,4 +1,18 @@
-# 100 Days Of Code - Log  
+# 100 Days Of Code - Log - r1 2025  
+
+### Day 1: May 27, 2024  
+
+**Today's progress:** Worked on a Scratch video game: Invaders of Uranus. Created a player character with movement controls and the ability to fire bullets.  
+
+**Thoughts:** I want to finally complete CS50x this year. Starting with a Scratch game.  
+
+**Link(s) to work:**  
+1. [Invaders of Uranus Movement Controller](https://scratch.mit.edu/projects/1181011893/)  
+2. [Invaders of Uranus Movement and Shooting](https://scratch.mit.edu/projects/1181238890/)  
+
+---
+
+# 100 Days Of Code - Log - r1 2024
 
 ### Day 30: July 11, 2024  
 
