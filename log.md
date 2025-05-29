@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log - r1 2025  
 
+
+
+### Day 3: May 29, 2024  
+
+**Today's progress:** Added explosions to the asteroids and ship in Invaders of Uranus. Added a simple scoring system: 1 point per asteroid shot.  
+
+**Thoughts:** An X user commented that the game felt slow. I should fix this sooner rather than later, probably with a variable I can change.  
+
+I can't seem to figure out how to despawn the bullets and the asteroid at the same time. Maybe wait 0.1 seconds after the impact so both objects have time to detect the collion and despawn?  
+
+**Link(s) to work:**  
+1. [Invaders of Uranus](https://scratch.mit.edu/projects/1181243763/)  
+2. [Invaders of Uranus Movement and Shooting](https://scratch.mit.edu/projects/1181238890/)  
+
+
+
+### Day 2: May 28, 2024  
+
+**Today's progress:** Added asteroids to Invaders of Uranus, which can be destroyed by the ship's bullets, but which can also destroy the ship if they collide with it.  
+
+**Thoughts:** I need to add little explosions for when things get destroyed.  
+
+**Link(s) to work:**  
+1. [Invaders of Uranus](https://scratch.mit.edu/projects/1181243763/)  
+
+
 ### Day 1: May 27, 2024  
 
 **Today's progress:** Worked on a Scratch video game: Invaders of Uranus. Created a player character with movement controls and the ability to fire bullets.  
