@@ -19,7 +19,7 @@
 
 **Thoughts:** An X user commented that the game felt slow. I should fix this sooner rather than later, probably with a variable I can change.  
 
-I can't seem to figure out how to despawn the bullets and the asteroid at the same time. Maybe wait 0.1 seconds after the impact so both objects have time to detect the collion and despawn?  
+I can't seem to figure out how to despawn the bullets and the asteroid at the same time. Maybe wait 0.1 seconds after the impact so both objects have time to detect the collision and despawn?  
 
 **Link(s) to work:**  
 1. [Invaders of Uranus](https://scratch.mit.edu/projects/1181243763/)  
