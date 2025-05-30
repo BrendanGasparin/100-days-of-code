@@ -4,7 +4,7 @@
 
 ### Day 4: May 30, 2025  
 
-**Today's progress:** Doubled the speed of the Invaders of Uranus game in response to user feedback on X/Twitter. Fixed an issue where some explosions did not decrease their Y position. Made a randomly generated starscape in the background.  
+**Today's progress:** Doubled the speed of the Invaders of Uranus game in response to user feedback on X/Twitter. Fixed an issue where some explosions did not decrease their Y position. Made a randomly generated starscape in the background. I also made cosmetic changes, like pixelating most of the graphics and adding a little astronaut dude on the title screen.  
 
 **Thoughts:** I need to add another enemy, or there aren't really any invaders of Uranus, just asteroids.   
 
