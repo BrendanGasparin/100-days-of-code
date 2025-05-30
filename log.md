@@ -2,6 +2,17 @@
 
 
 
+### Day 4: May 30, 2024  
+
+**Today's progress:** Doubled the speed of the Invaders of Uranus game in response to user feedback on X/Twitter. Fixed an issue where some explosions did not decrease their Y position. Made a randomly generated starscape in the background.  
+
+**Thoughts:** I need to add another enemy, or there aren't really any invaders of Uranus, just asteroids.   
+
+**Link(s) to work:**  
+1. [Invaders of Uranus](https://scratch.mit.edu/projects/1181243763/)  
+2. [Invaders of Uranus Random Starscape](https://scratch.mit.edu/projects/1182610679/)  
+
+
 ### Day 3: May 29, 2024  
 
 **Today's progress:** Added explosions to the asteroids and ship in Invaders of Uranus. Added a simple scoring system: 1 point per asteroid shot.  
