@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 6: Sunday 1st June, 2025  
+
+**Today's progress:** Watched CS50's week 1 lecture on C programming and completed the exercises: Hello World, Hello Me, Mario Less, Mario More, and Cash.  
+
+**Thoughts:** I will complete the Credit exercise tomorrow. It sort of sucks that I can't link my CS50 source code in this log, but that would be against academic integrity policies.  
+
+**Link(s) to work:**  
+1. N/A  
+
+
+### Day 5: Saturday May 31, 2025  
+
+**Today's progress:** Created logic to increase the spawn rate of asteroids as time progresses in the game. This is my last day of week 0 of CS50x so I packaged the game up and submitted it to the course.   
+
+**Thoughts:** I should continue to work on the game throughout the year to improve it.  
+
+**Link(s) to work:**  
+1. [Invaders of Uranus](https://scratch.mit.edu/projects/1181243763/)  
+2. [Invaders of Uranus Asteroid Shooter 2](https://scratch.mit.edu/projects/1183050311/)  
+
 
 ### Day 4: May 30, 2025  
 
