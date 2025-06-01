@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 7: Monday 2nd June, 2025  
+
+**Today's progress:** Completed Credit exercise from CS50x week 1 problem set.  
+
+**Thoughts:** It's kind of boring doing exercises that I have done repeatedly for the last several years. I want to finish CS50x as quickly as possible so I can check a box and get on with my own projects.  
+
+**Link(s) to work:**  
+1. N/A  
+
+
 ### Day 6: Sunday 1st June, 2025  
 
 **Today's progress:** Watched CS50's week 1 lecture on C programming and completed the exercises: Hello World, Hello Me, Mario Less, Mario More, and Cash.  
