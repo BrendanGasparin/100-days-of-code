@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 9: Wednesday 4th June, 2025  
+
+**Today's progress:** Completed Substitution exercise from CS50x week 2 problem set.  
+
+**Link(s) to work:**  
+1. N/A  
+
+
+### Day 8: Tuesday 3rd June, 2025  
+
+**Today's progress:** Completed Scrabble, Readability, and Caesar exercises from CS50x week 2 problem set.  
+
+**Link(s) to work:**  
+1. N/A  
+
+
 ### Day 7: Monday 2nd June, 2025  
 
 **Today's progress:** Completed Credit exercise from CS50x week 1 problem set.  
