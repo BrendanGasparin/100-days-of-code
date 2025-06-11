@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 15: Thursday 12th June, 2025  
+
+**Today's progress:** Completed filter-less exercise from CS50x week 4 problem set.  
+
+**Thoughts:** I haven't posted on X or updated my log since day 9, 4th June, but I coded for at least an hour every day except Monday 9th June. Will start posting on social media again today. It's difficult, because I can't post code samples without breaking Harvard's academic integrity policy, but I'll still try, as posting is part of the challenge.  
+
+**Link(s) to work:**  
+1. N/A  
+
+
 ### Day 9: Wednesday 4th June, 2025  
 
 **Today's progress:** Completed Substitution exercise from CS50x week 2 problem set.  
