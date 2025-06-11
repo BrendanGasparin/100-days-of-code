@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
-### Day 15: Thursday 12th June, 2025  
+### Day 16: Thursday 12th June, 2025  
 
 **Today's progress:** Completed filter-less exercise from CS50x week 4 problem set.  
 
