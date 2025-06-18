@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 21: Wednesday 18th June, 2025  
+**Today's progress:** I have completed problem sets 0 to 5 in CS50x and am now working on problem set 6, which is Python coding.  
+
+**Thoughts:** I haven't been posting on social media or updating my log, but I have been coding every day (except Monday). I'm looking forward to progressing through the last few weeks of CS50x. I am thinking of doing a PHP social network for my final project, as it is something I want to do anyway.  
+
+**Link(s) to work:**  
+1. N/A  
+
+
 ### Day 16: Thursday 12th June, 2025  
 
 **Today's progress:** Completed filter-less exercise from CS50x week 4 problem set.  
