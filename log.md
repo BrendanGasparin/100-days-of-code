@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 27: Thursday 24th June, 2025  
+**Today's progress:** I've completed problem set 6 from CS50x, and I am working my way through The C Programming language by Kernighan & Ritchie. I completed exercies 1.14 and 1.15 today. 1.14 is histograms that print out the frequency of different ASCII characters in the input (e.g. a text file). 1.15 is just a Fahrenheit to Celsius table using a function to calculate the formula.  
+
+**Thoughts:** Still haven't been posting on social media or updating my log, but I have coded every day since my last log entry. 
+
+I have just watched the CS50x 2025 lecture on SQL and am planning on tackling those problems tonight, unless I fall asleep before then. Meanwhile I will either work on exercises from The C Programming Language book by K&R, or Automate The Boring Stuff With Python by Al Sweigart.  
+
+I really should be working on my own projects, but if I can finish the SQL exercises from CS50x by tomorrow then I will have completed 8 weeks of the course in 4 weeks. The next week is HTML, CSS, and JavaScript which I am comfortable with (though I need to brush up on JavaScript). Then the week after that is Flask, which I am not particularly comfortable with. I think I've only gotten to the Flask lesson once or twice, because I always get distracted by the size of JavaScript.  
+
+After Flask is the final lesson and the final project. I have never gotten that far before. Technically I could continue working on the final project for up to five months and submit it before the end of the year. But I don't know the parameters of the project, so I can't say yet what I could possibly do.  
+
+**Link(s) to work:**  
+1. [Character frequencies histograms](https://github.com/BrendanGasparin/c-programming-language-2e/tree/main/chapter-01/1.14)  
+2. [Fahrenheit to Celsius](https://github.com/BrendanGasparin/c-programming-language-2e/tree/main/chapter-01/1.15)  
+
+
 ### Day 21: Wednesday 18th June, 2025  
 **Today's progress:** I have completed problem sets 0 to 5 in CS50x and am now working on problem set 6, which is Python coding.  
 
