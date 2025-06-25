@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log - r1 2025  
 
+### Day 28: Wednesday 25the June
+**Today's progress:** This morning I finished exercise 1.19 in The C Programming Language book. I also worked my way through the first chapter of Automate the Boring Stuff with Python.  
 
-### Day 27: Thursday 24th June, 2025  
+**Thoughts:** It's five minutes to midnight and after midnight I am going to start on day 29. I will do the SQL exercises for CS50x so I can continue on with finishing that course.  
+
+**Link(s) to work:**  
+1. [String reverser in C](https://github.com/BrendanGasparin/c-programming-language-2e/tree/main/chapter-01/1.19)  
+2. [hello.py](https://github.com/BrendanGasparin/automate-the-boring-stuff-with-python-2e/tree/main/chapter-01)  
+
+
+### Day 27: Tuesday 24th June, 2025  
 **Today's progress:** I've completed problem set 6 from CS50x, and I am working my way through The C Programming language by Kernighan & Ritchie. I completed exercies 1.14 and 1.15 today. 1.14 is histograms that print out the frequency of different ASCII characters in the input (e.g. a text file). 1.15 is just a Fahrenheit to Celsius table using a function to calculate the formula.  
 
 **Thoughts:** Still haven't been posting on social media or updating my log, but I have coded every day since my last log entry. 
