@@ -7,7 +7,7 @@
 **Thoughts:** Haven't updated my log or posted in over two weeks. I only missed one day of coding, two Saturdays ago.  
 
 **Link(s) to work:**  
-1. [Conway's Game of Life]()  
+1. [Conway's Game of Life](https://github.com/BrendanGasparin/c-conway)  
 
 
 ### Day 28: Wednesday 25th June, 2025
