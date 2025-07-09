@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log - r1 2025  
 
-### Day 28: Wednesday 25the June
+
+### Day 41: Wednesday 9th July, 2025  
+**Today's progress:** I wrote Conway's Game of Life in C.  
+
+**Thoughts:** Haven't updated my log or posted in over two weeks. I only missed one day of coding, two Saturdays ago.  
+
+**Link(s) to work:**  
+1. [Conway's Game of Life]()  
+
+
+### Day 28: Wednesday 25th June, 2025
 **Today's progress:** This morning I finished exercise 1.19 in The C Programming Language book. I also worked my way through the first chapter of Automate the Boring Stuff with Python.  
 
 **Thoughts:** It's five minutes to midnight and after midnight I am going to start on day 29. I will do the SQL exercises for CS50x so I can continue on with finishing that course.  
