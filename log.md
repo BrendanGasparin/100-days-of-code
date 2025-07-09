@@ -2,7 +2,7 @@
 
 
 ### Day 41: Wednesday 9th July, 2025  
-**Today's progress:** I wrote Conway's Game of Life in C.  
+**Today's progress:** I wrote Conway's Game of Life in C. I also completed the Coin Flip Streaks and Character Picture Grid exercises from Automate the Boring Stuff with Python.  
 
 **Thoughts:** Haven't updated my log or posted in over two weeks. I only missed one day of coding, two Saturdays ago.  
 
@@ -10,6 +10,8 @@ I'm still on chapter 1 of The C Programming Language. The last few exercises are
 
 **Link(s) to work:**  
 1. [Conway's Game of Life](https://github.com/BrendanGasparin/c-conway)  
+2. [Coin Flip Streaks](https://github.com/BrendanGasparin/automate-the-boring-stuff-with-python-2e/blob/main/chapter-04/exercises/coinflip.py)  
+3. [Character Picture Grid](https://github.com/BrendanGasparin/automate-the-boring-stuff-with-python-2e/blob/main/chapter-04/exercises/picturegrid.py)  
 
 
 ### Day 28: Wednesday 25th June, 2025
