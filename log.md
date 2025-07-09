@@ -4,7 +4,7 @@
 ### Day 41: Wednesday 9th July, 2025  
 **Today's progress:** I wrote Conway's Game of Life in C. I also completed the Coin Flip Streaks and Character Picture Grid exercises from Automate the Boring Stuff with Python.  
 
-**Thoughts:** Haven't updated my log or posted in over two weeks. I only missed one day of coding, two Saturdays ago.  
+**Thoughts:** Haven't updated my log or posted in over two weeks. Did it today. I've only missed one day of coding, though, two Saturdays ago.  
 
 I'm still on chapter 1 of The C Programming Language. The last few exercises are particularly difficult for me. I'm on the fourth chapter of Automate the Boring Stuff, which is more reading than coding so far. I'm on week 8 of CS50x.  
 
