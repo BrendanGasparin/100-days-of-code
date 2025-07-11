@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 43: Friday 11th July, 2025  
+**Today's progress:** Completed exercise 1.22 from The C Programming Language book.  
+
+**Link(s) to work:**  
+1. [foldlines.c](https://github.com/BrendanGasparin/c-programming-language-2e/tree/main/chapter-01/1.22)  
+
+
 ### Day 41: Wednesday 9th July, 2025  
 **Today's progress:** I wrote Conway's Game of Life in C. I also completed the Coin Flip Streaks and Character Picture Grid exercises from Automate the Boring Stuff with Python.  
 
