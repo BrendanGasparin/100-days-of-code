@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 50: Saturaday 19 July, 2025
+**Today's progress:** I am working on the homepage assignment from week 8 of CS50x. I want to do it right, so I can use it for my Github Pages website (and separate that site in search engines from [https://brendangasparin.com](https://brendangasparin.com)).  
+
+**Thoughts:** I can't provide evidence of my work while I am working on CS50x because, as previously stated, it might violate their academic integrity policy. I need to contact David and ask if it's okay for me to put it on Github.  
+
+
 ### Day 43: Friday 11th July, 2025  
 **Today's progress:** Completed exercise 1.22 from The C Programming Language book.  
 
