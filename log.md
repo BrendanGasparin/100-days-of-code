@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log - r1 2025  
 
 
+### Day 56: Saturday 26 July, 2025  
+**Today's progress:** Finished the Homepage project for CS50x. I also started exercise 1.24 from the book The C Programming Language. It checks C source code for unbalanced parentheses, brackets, and curly bracers.  
+
+**Thoughts:** Still not posting. I missed one day this week.  
+
+I need to do week 9 of CS50x and properly learn Flask. It is my understanding that the final project should be in Flask, although I may be wrong. I don't want this to be another year where I start and don't finish CS50x.  
+
+
 ### Day 50: Saturaday 19 July, 2025
 **Today's progress:** I am working on the homepage assignment from week 8 of CS50x. I want to do it right, so I can use it for my Github Pages website (and separate that site in search engines from [https://brendangasparin.com](https://brendangasparin.com)).  
 
